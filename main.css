@@ -1,0 +1,24 @@
+.container{
+    width: 1200px;
+    padding: 20px;
+    margin: 50px auto;
+    box-shadow: 0 0 8px #ddd;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.soldier{
+    width: 8px;
+    height: 8px;
+    margin: 2px;
+}
+
+.bomber{
+    background: red;
+}
+.riffler{
+    background: green;
+}
+.gooner{
+    background: blue;
+}
